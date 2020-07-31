@@ -1,0 +1,15 @@
+.pane {
+
+
+    -fx-content-display: top;
+    -fx-border-color: black;
+    -fx-border-width: 1;
+
+}
+
+
+
+.label {
+    -fx-background-color:#EEEEEE;
+    -fx-translate-y: -5;
+}
